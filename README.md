@@ -10,15 +10,19 @@ Lump sum means investing all the money at once. Dollar-cost averaging means spli
 
 ## What is inside
 
-- `01-what-each-one-is.md` plain definitions with an example.
-- `02-what-the-evidence-says.md` the average-case result and why.
-- `03-regret-and-behavior.md` why the lower-return choice can be the right one for you.
-- `04-when-each-fits.md` matching the choice to the situation.
-- `05-how-to-decide.md` a short way to make the call.
+- [01-what-each-one-is.md](01-what-each-one-is.md) plain definitions with an example.
+- [02-what-the-evidence-says.md](02-what-the-evidence-says.md) the average-case result and why.
+- [03-regret-and-behavior.md](03-regret-and-behavior.md) why the lower-return choice can be the right one for you.
+- [04-when-each-fits.md](04-when-each-fits.md) matching the choice to the situation.
+- [05-how-to-decide.md](05-how-to-decide.md) a short way to make the call.
 
 ## The honest framing
 
 There is no single right answer, and anyone who says otherwise is selling certainty that markets do not offer. The average case and your own risk tolerance often point in different directions. This reference lays out both so you can choose with eyes open.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
